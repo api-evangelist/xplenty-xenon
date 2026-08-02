@@ -1,0 +1,51 @@
+# Integrate.io
+
+> The Data Delivery Platform combining ETL/ELT, Reverse ETL, and iPaaS into low-code workflows. Purpose-built for data-savvy business users, not just IT.
+
+## Company
+Integrate.io is a cashflow-positive, privately owned data integration company. We help 1100+ data and ops teams move, transform, and deliver data without engineering bottlenecks.
+
+## Platform
+- Data Ingestion: /platform/data-ingestion/, Bring source data into Integrate.io pipelines
+- Data Transformation: /platform/data-transformation/, Drag-and-drop transformations for ETL/ELT workflows
+- Data Replication: /platform/data-replication/, Sub 60-second latency CDC replication
+- Orchestration: /platform/data-orchestration/, Schedule and coordinate platform workflows
+
+## Key Pages
+- Homepage: /, Platform overview, use cases, customer logos
+- Pricing: /pricing/, $1,999/month unlimited plan, custom enterprise tier
+- Demo: /demo/, Book a 30-minute live demo
+- About: /about/, Company mission, CEO letter
+- Security: /security/, SOC 2, HIPAA, GDPR, SSO, end-to-end encryption
+- Customers: /customers/, Customer stories and testimonials
+- Partners: /partners/, Partner program information
+- Careers: /careers/, Open positions and company culture
+
+## Solutions
+- Solutions Index: /solutions/, Browse by initiative, team, or industry
+- Use Cases: /use-cases/, ETL pipelines, Reverse ETL, data ingestion, Salesforce integration
+
+## Comparisons
+- Compare Index: /compare/, See how Integrate.io compares to alternatives
+- Individual comparisons at /compare/[competitor]-alternative/
+
+## Case Studies
+- Case Studies Index: /case-studies/, Customer success stories
+- Individual case studies at /case-studies/[company]/
+
+## Support & Resources
+- Documentation: /docs/ (hosted by Mintlify)
+- Blog: /blog/ (hosted by ButterCMS)
+- Security: /security/
+
+## Key Facts
+- 150+ pre-built connectors plus universal REST API connector
+- Fixed-fee pricing: $1,999/month, unlimited data, pipelines, connectors, users
+- 2-minute average first response time, 92% customer satisfaction
+- SOC 2, HIPAA, GDPR compliant
+- 24/7 live support with dedicated Solutions Engineers
+
+## Contact
+- Email: hello@integrate.io
+- Phone: 1 (888) 884 6405
+- Demo: https://www.integrate.io/demo/
